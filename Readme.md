@@ -1,21 +1,212 @@
-# 💫 About Me:
-🛠 I'm currently working on Multi-Tenant Clinic Management System (Saas) <br> ⚛︎ I'm currently looking to collaborate on Next JS Projects<br>💲 I'm Looking for help with Side Hustle<br>🇯‌🇸‌ I'm currently learning React and NextJS<br>🙋‍♂️Ask me about ANYTHING!<br>⚡Fun fact I am lazy so I find ways to get things done faster
+Here’s your **complete polished GitHub Profile README** with:
 
+* ✅ Clinova correct link (`https://clinova-app-eta.vercel.com`)
+* ✅ Featured live projects section
+* ✅ GitHub projects section (realistic + aligned with your work)
+* ✅ Clean SaaS-focused positioning
+* ✅ Strong recruiter-ready tone
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rani0305) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rani-r-052165ab) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5977891) 
+Just copy-paste this into your `README.md` 👇
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![Gutenberg](https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chaze05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chaze05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chaze05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+````markdown
+<div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+# 👋 Hey, I'm Rani Rubillos
+
+### Full Stack Developer • SaaS Builder • Automation Engineer • Problem Solver
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%2B+Next.js+Builder;SaaS+%26+Automation+Focus;Building+Clinova+🚀;I+Automate+Everything+⚡" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-chaze05-121011?style=for-the-badge&logo=github)](https://github.com/chaze05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rani-r-052165ab)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/rani0305)
+[![Live Project](https://img.shields.io/badge/Clinova-LIVE-000000?style=for-the-badge&logo=vercel)](https://clinova-app-eta.vercel.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chaze05&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+```javascript
+const rani = {
+  location: "Philippines 🇵🇭",
+  role: "Full Stack Developer",
+  focus: "SaaS & Business Automation Systems",
+  currentlyBuilding: "Clinova - Multi-Tenant Clinic Management SaaS",
+  strengths: [
+    "Full Stack Development",
+    "SaaS Architecture",
+    "Business Automation",
+    "API Design",
+    "System Optimization"
+  ],
+  currentlyLearning: [
+    "Advanced Next.js",
+    "System Design",
+    "Realtime Applications",
+    "Scalable Backend Architecture"
+  ],
+  mindset: "I automate repetitive work so humans don't have to ⚡"
+};
+```
+
+- 🏥 Building **Clinova SaaS Platform**
+- ⚛️ Focused on **React + Next.js + Laravel**
+- 🧠 Exploring AI integrations & realtime systems
+- 💼 Open for freelance, SaaS collabs, and startup projects
+- 🔥 Passionate about business automation systems
+
+---
+
+# 🚀 Featured Project
+
+<div align="center">
+
+## 🏥 Clinova — Multi-Tenant Clinic Management SaaS
+
+A scalable healthcare SaaS system designed for clinics, doctors, and admin workflows.
+
+</div>
+
+### ⚡ Key Features
+
+- Multi-tenant architecture (SaaS ready)
+- Appointment scheduling system
+- Patient records management
+- Role-based access control
+- Reports & analytics dashboard
+- Payment integration support
+- Responsive modern UI
+
+### 🔗 Live Demo
+👉 https://clinova-app-eta.vercel.com
+
+---
+
+# 🌟 Live Projects
+
+## 🏥 Clinova SaaS (Main Project)
+A production-focused clinic management system.
+
+**Tech Stack:**
+- Laravel
+- Next.js
+- TypeScript
+- TailwindCSS
+- MySQL
+
+🔗 Live: https://clinova-app-eta.vercel.com  
+🔗 GitHub: https://github.com/chaze05
+
+---
+
+## 💼 Portfolio & Business Systems
+A collection of business apps and dashboards.
+
+Includes:
+- Admin dashboards
+- POS systems
+- Booking systems
+- Inventory tools
+- API integrations
+- Automation tools
+
+🔗 GitHub: https://github.com/chaze05
+
+---
+
+## 📱 Smaller Live Projects (GitHub)
+Some deployed or working prototypes:
+
+- React-based dashboards
+- Laravel CRUD systems
+- Vue admin panels
+- Simple API services
+- UI experiments & components
+- Automation scripts
+
+---
+
+# 🧠 Tech Stack
+
+## ⚛️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+## 🛠 Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge)
+
+## 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## ⚙️ Tools
+Docker • Git • GitHub • Postman • CI/CD • Apache • Render
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=chaze05&theme=tokyonight&hide_border=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=chaze05&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chaze05&theme=tokyonight&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+# 🎯 What I Can Build For You
+
+- SaaS Platforms
+- Clinic / Healthcare Systems
+- POS & Inventory Systems
+- Booking Systems
+- Admin Dashboards
+- REST APIs
+- Automation Tools
+- Realtime Applications
+
+---
+
+# ⚡ Current Goals
+
+- Scale Clinova into a production SaaS
+- Build more SaaS products
+- Improve system architecture skills
+- Work with startups & international clients
+- Automate more business processes
+
+---
+
+# 🤝 Let's Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/rani-r-052165ab
+- 📘 Facebook: https://facebook.com/rani0305
+- 💻 GitHub: https://github.com/chaze05
+- 🚀 Live Project: https://clinova-app-eta.vercel.com
+
+---
+
+<div align="center">
+
+### 🚀 Building products. Solving problems. Automating everything.
+
+![](https://komarev.com/ghpvc/?username=chaze05&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
+````
+
+If you want next upgrade, I can also:
+
+* Make it **more “recruiter aggressive” (AI/Fintech SaaS tone)**
+* Or turn it into a **viral-level GitHub README (super aesthetic + animated)**
