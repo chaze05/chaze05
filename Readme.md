@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Rani Rubillos
 
-### Full Stack Developer • SaaS Builder • Automation Engineer • Problem Solver
+### Full Stack Software Developer • SaaS Builder • Automation Engineer • Problem Solver
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%2B+Next.js+Builder;SaaS+%26+Automation+Focus;Building+Clinova+🚀;I+Automate+Everything+⚡" />
 
