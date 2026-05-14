@@ -1,195 +1,99 @@
 <div align="center">
 
-# 👋 Hey, I'm Rani Rubillos
+# RANI RUBILLOS  
+### Full Stack SaaS Engineer • AI-Ready Systems Developer • Fintech-Grade Builder
 
-### Full Stack Software Developer • SaaS Builder • Automation Engineer • Problem Solver
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%2B+Next.js+Builder;SaaS+%26+Automation+Focus;Building+Clinova+🚀;I+Automate+Everything+⚡" />
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-chaze05-121011?style=for-the-badge&logo=github)](https://github.com/chaze05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rani-r-052165ab)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/rani0305)
-[![Live Project](https://img.shields.io/badge/Clinova-LIVE-000000?style=for-the-badge&logo=vercel)](https://clinova-app-eta.vercel.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=900&lines=Building+Scalable+SaaS+Systems;Multi-Tenant+Architecture+Specialist;Backend+%2B+Frontend+Engineer;Automation+%26+AI+Integration+Focused" />
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🧠 ENGINEERING PROFILE
 
-```javascript
-const rani = {
-  location: "Philippines 🇵🇭",
-  role: "Full Stack Developer",
-  focus: "SaaS & Business Automation Systems",
-  currentlyBuilding: "Clinova - Multi-Tenant Clinic Management SaaS",
-  strengths: [
-    "Full Stack Development",
+```ts
+type Engineer = {
+  name: "Rani Rubillos";
+  specialization: [
     "SaaS Architecture",
+    "Multi-Tenant Systems",
     "Business Automation",
-    "API Design",
-    "System Optimization"
-  ],
-  currentlyLearning: [
-    "Advanced Next.js",
-    "System Design",
-    "Realtime Applications",
-    "Scalable Backend Architecture"
-  ],
-  mindset: "I automate repetitive work so humans don't have to ⚡"
+    "Full Stack Development"
+  ];
+  stack: {
+    frontend: ["Next.js", "React", "TailwindCSS"];
+    backend: ["Laravel", "Node.js", "Express"];
+    database: ["MySQL", "PostgreSQL", "MongoDB"];
+  };
+  focus: "Building production-grade systems that scale";
 };
 ```
 
-- 🏥 Building **Clinova SaaS Platform**
-- ⚛️ Focused on **React + Next.js + Laravel**
-- 🧠 Exploring AI integrations & realtime systems
-- 💼 Open for freelance, SaaS collabs, and startup projects
-- 🔥 Passionate about business automation systems
+---
+
+# 🚀 FLAGSHIP SYSTEM
+
+## 🏥 Clinova — SaaS Clinic Management Platform
+
+### Production-focused multi-tenant system built for real-world healthcare operations.
+
+🔗 Live System: https://clinova-app-eta.vercel.com
+
+### CORE ENGINEERING FEATURES
+- Multi-tenant SaaS architecture
+- Role-based access control system
+- Scalable database design
+- Real-time operational workflows
+- Secure patient data handling
+- Modular API architecture
+- Analytics-ready reporting layer
 
 ---
 
-# 🚀 Featured Project
+# 📊 WHAT I BUILD
 
-<div align="center">
+### 🏦 SaaS Systems
+- Multi-tenant platforms
+- Subscription-based applications
+- Admin + analytics dashboards
 
-## 🏥 Clinova — Multi-Tenant Clinic Management SaaS
+### ⚙️ Backend Engineering
+- RESTful API architecture
+- Authentication systems
+- Scalable database schemas
+- Secure business logic layers
 
-A scalable healthcare SaaS system designed for clinics, doctors, and admin workflows.
+### 📡 Automation Systems
+- Business workflow automation
+- Data processing pipelines
+- API integrations
 
-</div>
+---
 
-### ⚡ Key Features
+# 💼 CURRENT POSITIONING
 
-- Multi-tenant architecture (SaaS ready)
-- Appointment scheduling system
-- Patient records management
-- Role-based access control
-- Reports & analytics dashboard
-- Payment integration support
-- Responsive modern UI
+- Building production SaaS (Clinova)
+- Actively designing scalable architectures
+- Focused on backend-heavy full stack systems
+- Preparing for AI-integrated SaaS products
 
-### 🔗 Live Demo
+---
+
+# 📡 LIVE SYSTEM
+
 👉 https://clinova-app-eta.vercel.com
 
 ---
 
-# 🌟 Live Projects
+# ⚡ ENGINEERING MINDSET
 
-## 🏥 Clinova SaaS (Main Project)
-A production-focused clinic management system.
-
-**Tech Stack:**
-- Laravel
-- Next.js
-- TypeScript
-- TailwindCSS
-- MySQL
-
-🔗 Live: https://clinova-app-eta.vercel.com  
-🔗 GitHub: https://github.com/chaze05
+> “If it doesn’t scale, it doesn’t ship.”
 
 ---
 
-## 💼 Portfolio & Business Systems
-A collection of business apps and dashboards.
+# 🤝 OPEN TO
 
-Includes:
-- Admin dashboards
-- POS systems
-- Booking systems
-- Inventory tools
-- API integrations
-- Automation tools
-
-🔗 GitHub: https://github.com/chaze05
-
----
-
-## 📱 Smaller Live Projects (GitHub)
-Some deployed or working prototypes:
-
-- React-based dashboards
-- Laravel CRUD systems
-- Vue admin panels
-- Simple API services
-- UI experiments & components
-- Automation scripts
-
----
-
-# 🧠 Tech Stack
-
-## ⚛️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-## 🛠 Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge)
-
-## 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## ⚙️ Tools
-Docker • Git • GitHub • Postman • CI/CD • Apache • Render
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=chaze05&theme=tokyonight&hide_border=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=chaze05&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chaze05&theme=tokyonight&hide_border=true&layout=compact)
-
-</div>
-
----
-
-# 🎯 What I Can Build For You
-
-- SaaS Platforms
-- Clinic / Healthcare Systems
-- POS & Inventory Systems
-- Booking Systems
-- Admin Dashboards
-- REST APIs
-- Automation Tools
-- Realtime Applications
-
----
-
-# ⚡ Current Goals
-
-- Scale Clinova into a production SaaS
-- Build more SaaS products
-- Improve system architecture skills
-- Work with startups & international clients
-- Automate more business processes
-
----
-
-# 🤝 Let's Connect
-
-- 💼 LinkedIn: https://linkedin.com/in/rani-r-052165ab
-- 📘 Facebook: https://facebook.com/rani0305
-- 💻 GitHub: https://github.com/chaze05
-- 🚀 Live Project: https://clinova-app-eta.vercel.com
-
----
-
-<div align="center">
-
-### 🚀 Building products. Solving problems. Automating everything.
-
-![](https://komarev.com/ghpvc/?username=chaze05&label=Profile%20Views&color=0e75b6&style=flat)
-
-</div>
+- SaaS Engineering Roles
+- Backend / Full Stack Positions
+- AI SaaS Collaboration
+- Startup Engineering Teams
