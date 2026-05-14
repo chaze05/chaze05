@@ -193,9 +193,3 @@ Docker • Git • GitHub • Postman • CI/CD • Apache • Render
 ![](https://komarev.com/ghpvc/?username=chaze05&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
-````
-
-If you want next upgrade, I can also:
-
-* Make it **more “recruiter aggressive” (AI/Fintech SaaS tone)**
-* Or turn it into a **viral-level GitHub README (super aesthetic + animated)**
