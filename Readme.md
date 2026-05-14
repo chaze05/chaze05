@@ -1,14 +1,3 @@
-Here’s your **complete polished GitHub Profile README** with:
-
-* ✅ Clinova correct link (`https://clinova-app-eta.vercel.com`)
-* ✅ Featured live projects section
-* ✅ GitHub projects section (realistic + aligned with your work)
-* ✅ Clean SaaS-focused positioning
-* ✅ Strong recruiter-ready tone
-
-Just copy-paste this into your `README.md` 👇
-
-````markdown
 <div align="center">
 
 # 👋 Hey, I'm Rani Rubillos
